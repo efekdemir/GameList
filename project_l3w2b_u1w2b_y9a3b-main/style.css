@@ -1,0 +1,52 @@
+.form-wrapper {
+  margin: auto;
+  position: relative;
+  width: 600px;
+}
+
+.admin-page {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  margin: auto;
+}
+
+.game-list {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  width: 80%;
+  margin: auto;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  margin: auto;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type:none;
+}
+
+.game-categories {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
